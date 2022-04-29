@@ -1,19 +1,19 @@
-public class Plus
+public class Subtract
 {
     private int Number_0;
     private int Number_1;
 
 
-    public Plus(int Number_0, int Number_1)
+    public Subtract(int Number_0, int Number_1)
     {
         this.Number_0 = Number_0;
         this.Number_1 = Number_1;
     }
 
 
-    public int Plus_Operation()
+    public int Subtract_Operation()
     {
-        return Number_0 + Number_1;
+        return Number_0 / Number_1;
     }
 
 
