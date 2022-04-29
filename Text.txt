@@ -1,0 +1,21 @@
+Zkoušení
+------------------------------------------------------------
+Tato aplikace vyzkouší uživatele v jeho znalostech v jedné z těchto kategorií (popř. může zkouška proběhnout ze všech kategorií současně).
+a) sčítání, odčítání, násobení a dělení celých čísel
+b) sčítání, odčítání, násobení a dělení zlomků
+c) převody mezi číselnými soustavami - desítkovou, dvojkovou a šestnáctkovou soustavou
+Na začátku uživatel zadá, ve které kategorii chce být vyzkoušen a kolik příkladů dostane zadáno.
+Na základě těchto informací vygenerujte uživateli odpovídající počet příkladů. Vyhodnoťte jeho odpovědi a na závěr určete kolik počet příkladů vypočítal správně.
+Můžete aplikaci vylepšit přidáním kategorií s obtížnostmi - např. nejjednodušší - v příkladech jsou pouze číselné hodnoty od -10 do 10, těžší - čísla v rozsahu od -100 do 100, ... atd.
+------------------------------------------------------------------------------------------------------------------------
+Podmínky
+------------------------------------------------------------
+Software musí být spustitelný na jednom, nebo více školních PC
+Software musí mít smysluplné reálné použití
+Program musí být smysluplně navržený – správně vytvořené třídy, použití dědičnosti, abstraktních tříd, interface a správné kolekce
+Program musí být zabezpečený tak, aby jej nebylo možné shodit – výjimky
+Kód programu musí být řádně čitelný, členěný, a hlavně musí obsahovat komentáře (ideálně v angličtině)
+Názvy metod a proměnných musí být smysluplné a odpovídající jejich účelu
+V programu nepoužívejte diakritiku (a ideálně vůbec nepoužívejte češtinu)
+Maximálně 200 řádků v jedné třídě
+------------------------------------------------------------------------------------------------------------------------
